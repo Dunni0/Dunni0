@@ -11,7 +11,7 @@ A Philosophy major with keen interest in Software development.
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript and Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer/Front Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer / Frontend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://universityoflagos-my.sharepoint.com/:w:/g/personal/170107044_live_unilag_edu_ng/EXL1IG1zfJdLkayVGjh7PXsBJRMgDYXWFPRND3IIwFqRfQ?e=LIYB4N) and contact me by emailing pelumioladunni3@gmail.com.
 
 ---
