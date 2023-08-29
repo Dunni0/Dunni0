@@ -12,7 +12,7 @@ A Philosophy major with keen interest in Software development.
 - 🌱 I’m currently learning JavaScript and Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer / Frontend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://docs.google.com/file/d/1oPIUCTOjfsPU5MFo7T2PYvMKZBGQWa1T/edit?usp=docslist_api&filetype=msword) and contact me by emailing pelumioladunni3@gmail.com.
+- 📫 You can [view my resume](https://universityoflagos-my.sharepoint.com/:b:/g/personal/170107044_live_unilag_edu_ng/EaGooTX66jhFqXMy8zwdjSEBHhv-ZpTQXsG06nOw2YpISA?e=ppwQDs) and contact me by emailing pelumioladunni3@gmail.com.
 
 ---
 
