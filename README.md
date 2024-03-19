@@ -8,10 +8,10 @@ A Philosophy major with keen interest in Software development.
 
 - 😊 Pronouns: She/Her.
 - ❤️ I really love bread. 
-- 🌱 I’m currently learning JavaScript and Reactjs.
+- 🌱 I’m currently learning Next JS and MongoDB.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer / Frontend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://universityoflagos-my.sharepoint.com/:b:/g/personal/170107044_live_unilag_edu_ng/EaGooTX66jhFqXMy8zwdjSEBHhv-ZpTQXsG06nOw2YpISA?e=ppwQDs) and contact me by emailing pelumioladunni3@gmail.com.
+- 📫 You can contact me by emailing pelumioladunni3@gmail.com.
 
 ---
 
