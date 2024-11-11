@@ -9,8 +9,7 @@ A Philosophy major with keen interest in Software development.
 - 😊 Pronouns: She/Her.
 - ❤️ I really love bread. 
 - 🌱 I’m currently learning Next JS and MongoDB.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer / Frontend Engineer (Intern or Junior level).
+- 💼 Job interests: Frontend Developer 
 - 📫 You can contact me by emailing pelumioladunni3@gmail.com.
 
 ---
