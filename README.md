@@ -1,18 +1,37 @@
-# Hey there! 👋🏾
+<div align="center">
 
-[![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white&link=https://altschoolafrica.com/schools/engineering)](https://altschoolafrica.com/schools/engineering) [![Linkedin Badge](https://img.shields.io/badge/-oluwapelumi_awonuga-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oluwapelumi-awonuga)](https://www.linkedin.com/in/oluwapelumi-awonuga-841997221) [![Twitter Badge](https://img.shields.io/badge/-@pelumi_oladunni-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/pelumi_oladunni)](https://twitter.com/pelumi_oladunni)
+# Oluwapelumi Awonuga
+### Philosophy × Frontend Engineering
 
-A Philosophy major with keen interest in Software development.
+*I think carefully about problems — probably because I spent years studying how to.*  
+*Now I build interfaces with that same attention to precision, clarity, and what things mean.*
 
-**Here's a quick summary about me**:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-oluwapelumi_awonuga-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwapelumi-awonuga-841997221)
+[![Twitter](https://img.shields.io/badge/Twitter-@pelumi__oladunni-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pelumi_oladunni)
+[![Email](https://img.shields.io/badge/Email-pelumioladunni3@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pelumioladunni3@gmail.com)
+[![AltSchool](https://img.shields.io/badge/AltSchool-Engineering-6773E5?style=flat-square)](https://altschoolafrica.com/schools/engineering)
 
-- 😊 Pronouns: She/Her.
-- ❤️ I really love bread. 
-- 🌱 I’m currently learning Next JS and MongoDB.
-- 💼 Job interests: Frontend Developer 
-- 📫 You can contact me by emailing pelumioladunni3@gmail.com.
+</div>
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dunni0&show_icons=true&include_all_commits=true&hide_border=true" alt="Pelumi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunni0&langs_count=8&layout=compact&hide_border=true" alt="Pelumi's GitHub stats" /> |
-| ------------- | ------------- |
+### About me
+```
+role       →  Frontend Developer (open to opportunities)
+learning   →  Next.js · MongoDB
+pronouns   →  She / Her
+weakness   →  Bread, all varieties, no exceptions
+```
+
+Currently deep in the Next.js and MongoDB ecosystem — building things that are fast, accessible, and actually make sense to use. The philosophy degree wasn't a detour; it sharpened how I reason about systems, user intent, and why anything is designed the way it is.
+
+---
+
+### GitHub at a glance
+
+<div align="center">
+
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dunni0&show_icons=true&include_all_commits=true&hide_border=true) | ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dunni0&langs_count=8&layout=compact&hide_border=true) |
+|---|---|
+
+</div>
