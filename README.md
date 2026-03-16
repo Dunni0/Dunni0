@@ -27,7 +27,7 @@ non-negotiable   →  Bread, always
 
 <div align="center">
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dunni0&show_icons=true&hide_border=true&count_private=true&hide=contribs) | ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dunni0&langs_count=8&layout=compact&hide_border=true) |
+| ![GitHub streak](https://streak-stats.demolab.com?user=Dunni0&hide_border=true) | ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dunni0&langs_count=8&layout=compact&hide_border=true) |
 |---|---|
 
 </div>
