@@ -4,7 +4,6 @@
 *a philosophy major who fell in love with building things for the web.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oluwapelumi_awonuga-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwapelumi-awonuga-841997221)
-[![Email](https://img.shields.io/badge/Email-pelumioladunni3@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pelumioladunni3@gmail.com)
 [![AltSchool](https://img.shields.io/badge/AltSchool-Engineering-6773E5?style=flat-square)](https://altschoolafrica.com/schools/engineering)
 
 </div>
