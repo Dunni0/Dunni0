@@ -1,16 +1,10 @@
 <div align="center">
 
 # hey, i'm pelumi 👋🏾
-*a philosophy major who fell in love with building things for the web.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-oluwapelumi_awonuga-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwapelumi-awonuga-841997221)
-[![AltSchool](https://img.shields.io/badge/AltSchool-Engineering-6773E5?style=flat-square)](https://altschoolafrica.com/schools/engineering)
 
 </div>
 
 ---
-
-Studying philosophy taught me to ask *why* before *how* — turns out that's pretty useful in frontend work. I care about interfaces that feel considered: the kind where someone uses it and just thinks "oh, that makes sense." Currently working my way deeper into Next.js and MongoDB, one project at a time.
 
 When I'm not writing code, I'm probably eating bread. I have no shame about this.
 
